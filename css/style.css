@@ -26,8 +26,8 @@ input, ul {
 body {
     margin: auto;
     max-width: 1440px;
-    padding-left: 50px;
-    padding-right: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 
 h2 {
@@ -81,7 +81,6 @@ img {
 
 nav {
     display: flex;
-    padding: 0px 25px;
     flex-direction: column;
     align-items: center;
     gap: 68px;
@@ -437,8 +436,8 @@ footer {
 footer div {
     display: flex;
     flex-direction: column;
-    width: 33%;
-    margin: 20px 0 20px 20px;
+    width: 100%;
+    padding: 20px;
     row-gap: 15px;
 }
 
@@ -646,7 +645,7 @@ footer h4, footer ul {
     }
 
     footer div {
-    margin: 30px;
+    padding: 30px;
     }
 
     footer li {
