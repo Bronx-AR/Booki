@@ -402,6 +402,7 @@ nav a:hover {
 .ligne_cartes_activites {
     display: flex;
     column-gap: 30px;
+    justify-content: space-between;
 }
 
 .ligne_cartes_activites a {
@@ -583,6 +584,7 @@ footer h4, footer ul {
         column-gap: 10px;
         row-gap: 20px;
         align-items: center;
+        width: 100%;
     }
 
     .filtres li {
