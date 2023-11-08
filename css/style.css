@@ -626,24 +626,13 @@ footer h4, footer ul {
         width: 100%;
     }
 
-    .ligne_cartes_hebergements, .ligne_cartes_populaires {
-        margin: 0 20px 15px 20px;
-    }
-
-    .ligne_cartes_activites {
-        margin: 0 30px 65px 30px;
-    }
-
-    #activites h2 {
-        margin-left: 30px;
-    }
-
     .carte_hebergements {
         height: 210px;
     }
 
     .afficher {
         margin-bottom: 55px;
+        margin-top: 15px;
     }
 
     footer {
