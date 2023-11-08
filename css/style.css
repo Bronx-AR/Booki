@@ -246,6 +246,11 @@ nav a:hover {
     column-gap: 40px;
 }
 
+.hebergements_populaires section {
+    padding: 30px;
+    row-gap: 30px;
+}
+
 .hebergements_populaires .etoile_grise {
     color: var(--main-bg-color);
 }
@@ -262,8 +267,6 @@ nav a:hover {
     width: 65%;
     background: var(--main-bg-color);
     border-radius: 15px;
-    row-gap: 30px;
-    padding: 30px;
 }
 
 .ligne_cartes_hebergements {
@@ -340,7 +343,6 @@ nav a:hover {
     display: flex;
     flex-direction: column;
     row-gap: 30px;
-    margin: 30px;
 }
 
 .ligne_cartes_populaires a {
